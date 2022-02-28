@@ -15,9 +15,9 @@
 
     <section class="features">
         <h2>Описание товара:</h2>
-          <p align="center">Стулья<img scr="project1/s.jpg" width="360" height="360">
-            <br align="center">Шкафы<img scr="project1/ch.jpg" width="360" height="360">
-            <br align="center">Столы<img scr="project1/st.jpg" width="360" height="306">
+          <p align="center">Стулья<img src="project1/s.jpg" width="360" height="360">
+            <br align="center">Шкафы<img src="project1/ch.jpg" width="360" height="360">
+            <br align="center">Столы<img src="project1/st.jpg" width="360" height="306">
 </section>
     <section class="advantages">
         <h2>Характеристики товара:</h2>
